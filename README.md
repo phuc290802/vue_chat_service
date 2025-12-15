@@ -36,3 +36,4 @@ npm run dev
 ```sh
 npm run build
 ```
+<img width="1883" height="852" alt="image" src="https://github.com/user-attachments/assets/13178a97-fd4d-41f3-af07-155cf4d16137" />
